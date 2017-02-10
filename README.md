@@ -134,3 +134,4 @@ En particular, este ejercicio requiere:
 	
 3. Diseño de la solución:
 	* El diseño debe permitir un único punto de creación de Beans.
+	* El nivel de las abstracciones hechas para para la inversión de dependencias es la adecuada, y evita violar el principio DRY (Don't Repeat Yourself).
